@@ -22,7 +22,6 @@ El objetivo principal es practicar el uso de Git como herramienta de control de 
 ## 🛠️ Tecnologías utilizadas
 
 - Git y GitHub
-- [Aquí coloca el lenguaje o stack usado, por ejemplo:]
   - HTML + CSS + JavaScript  
   - Python (para consola o con Flask)  
   - Node.js, etc.
@@ -34,7 +33,7 @@ El objetivo principal es practicar el uso de Git como herramienta de control de 
 **Curso:** Git y GitHub  
 **Plataforma:** Alura Latam  
 **Nivel:** Principiante  
-**Autor del repositorio:** José Cordero
+**Autor del repositorio:** José Luis Cordero
 
 ---
 
